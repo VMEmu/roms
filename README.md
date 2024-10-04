@@ -5,9 +5,9 @@ This repository contains all ROMs needed by the [VMEmu](https://github.com/VMEmu
 Note that some ROMs in this repository may be for dev-branched machines and devices, meaning that they will not do anything on regular release builds. If you are confused why some device does not appear despite the ROM being present in the set, check that you are using an appropriate build of VMEmu before reporting issues.
 
 ## Contributing ROMs
-Before new ROMs can be accepted in this repository, the code that uses the ROMs needs to be in the upstream VMEmu repository. Once you've made an 86Box pull request, open a pull request here. This applies to removals as well in inverse. 
+Before new ROMs can be accepted in this repository, the code that uses the ROMs needs to be in the upstream VMEmu repository. Once you've made an VMEmu pull request, open a pull request here. This applies to removals as well in inverse. 
 
-Note that your ROM(s) will not be merged to master until the code is in 86Box master. However, if the development is happening in an upstream 86Box branch, a corresponding branch can be created here until the feature is ready for master.
+Note that your ROM(s) will not be merged to master until the code is in VMEmu master. However, if the development is happening in an upstream VMEmu branch, a corresponding branch can be created here until the feature is ready for master.
 
 ## Committing guidelines
 - Do not use vague commit messages.
